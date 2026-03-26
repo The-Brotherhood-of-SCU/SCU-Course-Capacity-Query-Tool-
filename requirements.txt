@@ -1,0 +1,9 @@
+# SCU Course Capacity Query - Dependencies
+# 四川大学课程容量查询工具依赖
+
+# Runtime dependencies
+requests>=2.31.0
+ddddocr>=1.4.11
+onnxruntime>=1.15.0
+pillow>=10.0.0
+numpy>=1.24.0
